@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @razvangsb
 - 👀 I’m interested in Cloud
 - 🌱 I’m currently learning Azure
-- 🎯 I'm planning to use this github to showcase the thing i learn
+- 🎯 I'm planning to use this github to showcase the things I learn
